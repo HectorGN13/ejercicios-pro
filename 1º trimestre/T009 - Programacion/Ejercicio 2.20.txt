@@ -1,0 +1,9 @@
+Ejer.2.20 Declara los siguientes atributos:
+
+a)	estaVacia,  que indica si una urna está o no vacía // private boolean estaVacia;
+b)	edad, que indica la edad de una persona //  private int edad;
+c)	facturaLuz , que denota el importe de la factura de la luz // private double facturaLuz;
+d)	 estadoCivil que indica el estado civil de una persona (‘S’  ‘C’  ‘V’   ‘D’) // private char estadoCivil; 
+e)	nombreAsignatura que indica el nombre de la asignatura que se está cursando // private String nombreAsignatura;
+f)	areaFigura que indica el área de una determinada figura // private float areaFigura;
+g)	estaAprobado  que indica si un alumno ha aprobado o no cierta asignatura // private boolean estaAprobado;

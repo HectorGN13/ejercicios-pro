@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Urna
+comment0.text=\r\n\ Urna\r\n\r\n\ @author\ Eduardo\ Barra\ Balao\r\n\ @version\ 0.3\r\n
+comment1.params=
+comment1.target=Urna()
+comment2.params=b
+comment2.target=void\ agregar(Bola)
+comment3.params=
+comment3.target=Bola\ extraer()
+comment3.text=\ private\ boolean\ estaColocada(Bola\ b)\ {\r\n\ \ \ \ \ \ \ \ return\ b\=\=bola1\ ||\ b\=\=bola2\ ||\ b\=\=bola3;\r\n}
+comment4.params=
+comment4.target=int\ getCapacidad()
+comment5.params=
+comment5.target=boolean\ estaVacia()
+comment6.params=
+comment6.target=boolean\ estaLlena()
+comment7.params=
+comment7.target=int\ numBolas()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

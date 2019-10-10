@@ -1,0 +1,5 @@
+¿Cómo crees que la clase Dibujo efectúa el dibujo?
+
+Porque la clase dibujo esta asociada a las demas clases, si te fijas en los atributos hay 2 atributos que son de la clase
+cuadrado, uno de la clase triangulo y otro de la clase circulo  y entonces en el metodo dibujar es el encargado de asignar
+los valores de los atributos.

@@ -1,0 +1,1 @@
+¿De qué tipo es el atributo color? String ¿Y el atributo anio? int

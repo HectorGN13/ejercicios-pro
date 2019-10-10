@@ -1,0 +1,3 @@
+T022-¿ES LA EXPRESION (X>0)||(X<0) UNA TAUTOLOGIA?
+
+no porque para que esto sea una tautologia cualquiera de sus interpretaciones tiene que ser verdad y puede darse el caso en el que x sea igual a 0 entonces daria falso

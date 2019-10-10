@@ -1,0 +1,18 @@
+file.encoding: UTF-8 --> Codificacion de caracteres
+file.separator: \ --> Carácter que separa los componentes de una ruta de archivo.
+java.home: C:\Program Files\Java\jdk-10.0.2 --> Directorio de la instalación
+java.library.path: C:\Program Files\Java\jdk-10.0.2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-10.0.2\bin;C:\Users\gnhec\AppData\Local\Microsoft\WindowsApps;C:\Users\gnhec\AppData\Local\atom\bin;. --> Lista de rutas para buscar al cargar bibliotecas
+java.runtime.version: 10.0.2+13 --> Version de la JRE
+java.vendor: Oracle Corporation --> Proveedor de entornos e tiempos de ejecucion java
+java.vm.specification.vendor: Oracle Corporation --> Proveedor de la especificación de la máquina virtual Java
+java.vm.specification.version: 10 --> Versión de la especificación de la máquina virtual Java
+java.vm.version: 10.0.2+13 --> Version de la JRE
+java.vm.version: 10.0.2+13 --> Versión de la especificación de la máquina virtual Java
+line.separator: 
+ --> separador de linea
+os.name: Windows 10 --> Nombre del sistema operativo
+os.version: 10.0 --> Version del sistema operativo
+user.country: ES --> Configuracion regional
+user.dir: C:\Users\gnhec\IdeaProjects\T207 - Programacion --> Directorio de trabajo del usuario
+user.home: C:\Users\gnhec --> Ruta donde se encuentra el jdk
+user.language: es --> Idioma del usuario

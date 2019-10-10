@@ -1,0 +1,8 @@
+¿QUE DIFERENCIA VES ENTRE UN JFRAME Y JINTERNALFRAME?
+
+pues que el JFrame es la ventana principal y el JinternalFrame son ventanas interiores
+que no pueden salirse de la ventana padre por asi decirlo. 
+
+ ¿ES JINTERNALFRAME UN CONTENEDOR DE ALTO NIVEL?
+
+Si porque en un Contenedior de alto nivel puedes configurar la interfaz y eso.

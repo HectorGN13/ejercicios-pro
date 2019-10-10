@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Bola
+comment1.params=color
+comment1.target=Bola(TipoColor)
+comment2.params=numero
+comment2.target=void\ setNumero(int)
+comment3.params=
+comment3.target=void\ incContador()
+comment4.params=color
+comment4.target=void\ setColor(TipoColor)
+comment5.params=
+comment5.target=boolean\ estaColocada()
+comment6.params=colocada
+comment6.target=void\ setColocada(boolean)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

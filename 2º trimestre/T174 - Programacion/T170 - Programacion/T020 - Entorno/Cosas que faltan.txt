@@ -1,0 +1,2 @@
+Me faltan AbstracColection hereda AbastractList y AbstracQueque, AbstracSet hereda el treeSet, AbstractList hereda arrayList y vector
+Novedades java 8 Metodos default sort ((Comparator<? super E> c)

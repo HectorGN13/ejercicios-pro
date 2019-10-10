@@ -1,0 +1,4 @@
+public enum TipoRango implements Comparable<TipoRango> {
+    SOLDADO,CABO,SARGENTO,BRIGADA,SUBTENIENTE,TENIENTE,CAPITAN,COMANDANTE,CORONEL,GENERAL
+
+}

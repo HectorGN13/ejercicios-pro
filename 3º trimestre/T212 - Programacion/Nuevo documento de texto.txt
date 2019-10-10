@@ -1,0 +1,5 @@
+Las aplicaciones SDI permiten sólo una ventana de marco de documento abierto a la vez. 
+Las aplicaciones MDI permiten documento varias ventanas de marco esté abierto en la misma instancia de una aplicación. 
+Una aplicación MDI tiene una ventana dentro de lo múltiples MDI, se pueden abrir ventanas secundarias, que son ventanas de marco a sí mismos, que contiene un documento independiente. 
+En algunas aplicaciones, las ventanas secundarias pueden ser de tipos diferentes, como chart de windows y windows de la hoja de cálculo. 
+En ese caso, puede cambiar la barra de menús que se activan ventanas secundarias MDI de diferentes tipos.

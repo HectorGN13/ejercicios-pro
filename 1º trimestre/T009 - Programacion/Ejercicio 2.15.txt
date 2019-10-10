@@ -1,0 +1,7 @@
+private void setNombre(String nuevoNombre){
+	nombre = nuevoNombre;
+}
+
+private int calcularMedia(int a, int b){
+}
+

@@ -1,0 +1,7 @@
+¿Es lo mismo palabra clave que palabra reservada?
+
+No, en el lenguaje de programación Java, una palabra clave es una de las 50 palabras reservadas 
+que tienen un significado predefinido en el lenguaje; por ello, 
+los programadores no pueden usar palabras claves como nombres de variables, métodos, clases, o cualquier otro identificador.  
+
+por ejemplo true false es una palabra reservada que se utiliza como identificador pero no es una palabra clave 

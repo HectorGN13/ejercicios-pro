@@ -1,0 +1,2 @@
+El ordenador que estás utilizando, ¿es un objeto o una clase?
+ es un objeto porque es una instancia de la clase ordenador ya que es mi propio ordenador (Hector pc)

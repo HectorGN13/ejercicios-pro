@@ -1,0 +1,6 @@
+DEFINIR UNA VARIABLE BOOLEANA ASIGNANDOLE LA EXPRESION: true<false
+
+¿HAY ERROR?
+Si
+¿EN TIEMPO DE EDICION, COMPILACION O EJECUCION...?
+error en tiempo de edicion porque no se le puede aplicar el operador mayor o menor que a dos valores primitivos.

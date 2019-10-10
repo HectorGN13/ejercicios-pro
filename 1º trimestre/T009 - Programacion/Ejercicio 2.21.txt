@@ -1,0 +1,20 @@
+Construye las siguientes expresiones lógicas de tal manera que al evaluarlas sean ciertas si numero:
+
+a)	 es distinto de 0  // numero != 0;
+b)	 es igual a 0 // numero == 0;
+c)	está comprendido entre 1 y 100 // numero>=1 && numero<=100
+d)	está entre 1  y 100 o es negativo // numero>=1 && numero<=100 && numero!=0 || numero<0
+e)	es par // numero%2 == 0;
+f)	es  múltiplo de 4 // numero%4 == 0 
+g)	es múltiplo de 4 pero no de 100 // numero%4 == 0 && numero%100 != 0
+
+sea cierta :
+
+h)	 si una persona es adulta: if ( edad >= 18 ) {
+					return true;
+				   }
+
+sea cierta si dia:
+
+i)	suponiendo que corresponde al mes de enero, es correcto // 
+j)	suponiendo que corresponde al mes de abril,  es  incorrecto //

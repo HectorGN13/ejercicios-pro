@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a67622a-c9c4-4813-921a-bd2f1a62bb50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P4-FIGURAS/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P4-FIGURAS/src/Abierta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P4-FIGURAS/src/Cerrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P4-FIGURAS/src/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P4-FIGURAS/src/Cuadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P4-FIGURAS/src/Irregular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P4-FIGURAS/src/Poligono.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P4-FIGURAS/src/Punto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P4-FIGURAS/src/Regular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P4-FIGURAS/src/TipoColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P4-FIGURAS/src/TipoSentido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P5-Animales/src/Anfibio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P5-Animales/src/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P5-Animales/src/Dorada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P5-Animales/src/Gallina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P5-Animales/src/Invertebrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P5-Animales/src/Lagartija.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P5-Animales/src/Mamifero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P5-Animales/src/Mostrable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P5-Animales/src/Ornitorrinco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P5-Animales/src/Oviparo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P5-Animales/src/Pez.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P5-Animales/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P5-Animales/src/Rana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P5-Animales/src/Reptil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P5-Animales/src/TipoEscama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P5-Animales/src/Venenoso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/P5-Animales/src/Vertebrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/PRACTICA4-FIGURAS/src/Cerrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/PruebasExamenTeorico/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/PruebasExamenTeorico/src/Brazo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/PruebasExamenTeorico/src/Miembro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/PruebasExamenTeorico/src/Pierna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/PruebasExamenTeorico/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T119-AnteriorConInvocaciones/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T120-TableroRobot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T122-Ejercicios5.20-5.22/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T127-StringTokenizer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T127-StringTokenizer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T127-StringTokenizer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T127-StringTokenizer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T127-StringTokenizer/T127-StringTokenizer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T127-StringTokenizer/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T129-ParametrosVaribles/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T129-ParametrosVaribles/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T129-ParametrosVaribles/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T129-ParametrosVaribles/T129-ParametrosVaribles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T133-Collator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T149-Militares/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T156-LibreriaExterna/lib/jansi-1.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T158-CarteleraCine/src/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T158-CarteleraCine/src/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T158-CarteleraCine/src/Pelicula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T158-CarteleraCine/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T158-CarteleraCine/src/Reparto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T159-TreeSetAnimales/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T159-TreeSetAnimales/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T159-TreeSetAnimales/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T160-CollectionSortMilitares/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T160-CollectionSortMilitares/src/ComparadorMilitarAlias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T160-CollectionSortMilitares/src/ComparadorMilitarPeso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T160-CollectionSortMilitares/src/ComparadorMilitarTipoRango.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T160-CollectionSortMilitares/src/Militar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T160-CollectionSortMilitares/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T160-CollectionSortMilitares/src/TipoRango.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T165-Fibonacci/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T165-Fibonacci/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T169-HashMapVsTreeMap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T172-EjemplosHerencia/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T172-EjemplosHerencia/src/Animales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T172-EjemplosHerencia/src/Cd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T172-EjemplosHerencia/src/Dvd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T172-EjemplosHerencia/src/Jugable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T172-EjemplosHerencia/src/Mirable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T172-EjemplosHerencia/src/Mostrable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T172-EjemplosHerencia/src/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T172-EjemplosHerencia/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T197-[ES]-TryRecursosCreateTextFile/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T197-[ES]-TryRecursosCreateTextFile/src/CreateTextFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1ºTRIMESTRE/Conecta4V0.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1ºTRIMESTRE/Conecta4V0.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1ºTRIMESTRE/Robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../1ºTRIMESTRE/Robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1ºTRIMESTRE/RobotV0.3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1ºTRIMESTRE/RobotV0.3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1ºTRIMESTRE/RobotV0.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1ºTRIMESTRE/RobotV0.3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/BloquesInicializacionStaticos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/BloquesInicializacionStaticos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/BloquesInicializacionStaticos/out/production/BloquesInicializacionStaticos/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/BloquesInicializacionStaticos/out/production/BloquesInicializacionStaticos/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/BloquesInicializacionStaticos/out/production/BloquesInicializacionStaticos/TarroAceitunas.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/BloquesInicializacionStaticos/out/production/BloquesInicializacionStaticos/TarroAceitunas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/BloquesInicializacionStaticos/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/BloquesInicializacionStaticos/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/BloquesInicializacionStaticos/src/TarroAceitunas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/BloquesInicializacionStaticos/src/TarroAceitunas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/EjemploParametrosVariables/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/EjemploParametrosVariables/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/EjemploParametrosVariables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/EjemploParametrosVariables/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/EjemploParametrosVariables/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/EjemploParametrosVariables/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/ListasSE/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/ListasSE/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/ListasSE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/ListasSE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/ListasSE/out/production/ListasSE/ListaSimple.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/ListasSE/out/production/ListasSE/ListaSimple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/ListasSE/out/production/ListasSE/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/ListasSE/out/production/ListasSE/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/ListasSE/src/ListaSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/ListasSE/src/ListaSimple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/ListasSE/src/Nodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/ListasSE/src/Nodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/ListasSE/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/ListasSE/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/MasterMindV0.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/MasterMindV0.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/MasterMindV0.1/MasterMindV0.1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/MasterMindV0.1/MasterMindV0.1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/MasterMindV0.1/src/CombinacionLinea.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/MasterMindV0.1/src/CombinacionLinea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/MasterMindV0.1/src/CombinacionPin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/MasterMindV0.1/src/CombinacionPin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/MasterMindV0.1/src/Ficha.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/MasterMindV0.1/src/Ficha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/MasterMindV0.1/src/Pin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/MasterMindV0.1/src/Pin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/MasterMindV0.1/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/MasterMindV0.1/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/MasterMindV0.1/src/TipoColorPin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/MasterMindV0.1/src/TipoColorPin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/NEnRayaV0.3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/NEnRayaV0.3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/NEnRayaV0.3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/NEnRayaV0.3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/NEnRayaV0.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/NEnRayaV0.3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/NEnRayaV0.3/out/production/NEnRayaV0.3/Jugador.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/NEnRayaV0.3/out/production/NEnRayaV0.3/Jugador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/NEnRayaV0.3/out/production/NEnRayaV0.3/Partida.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/NEnRayaV0.3/out/production/NEnRayaV0.3/Partida.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/NEnRayaV0.3/out/production/NEnRayaV0.3/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/NEnRayaV0.3/out/production/NEnRayaV0.3/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/NEnRayaV0.3/src/Jugador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/NEnRayaV0.3/src/Jugador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/NEnRayaV0.3/src/Partida.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/NEnRayaV0.3/src/Partida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/NEnRayaV0.3/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/NEnRayaV0.3/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/PRACTICA_N_ENRAYA/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/PRACTICA_N_ENRAYA/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/PRACTICA_N_ENRAYA/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/PRACTICA_N_ENRAYA/PRACTICA_N_ENRAYA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/T111-BuscarPosiciones/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T111-BuscarPosiciones/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/T112-BuscarDicotomica/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T112-BuscarDicotomica/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/T113-5.14_Diccionario/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T113-5.14_Diccionario/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/T113-5.16_Curso/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T113-5.16_Curso/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/T113-5.17_CursoV0.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T113-5.17_CursoV0.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/T113-5.17_CursoV0.2/src/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T113-5.17_CursoV0.2/src/Estudiante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/T113-5.18-CursoV0.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T113-5.18-CursoV0.3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/T113-5.19-Curso/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T113-5.19-Curso/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/T113-Ejercicios_5.13-5.19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T113-Ejercicios_5.13-5.19/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2ºTRIMESTRE/T114-Primos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2ºTRIMESTRE/T114-Primos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CreateSequentialFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="23" column="64" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ReadFileSequential.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="20" column="92" selection-start-line="20" selection-start-column="92" selection-end-line="20" selection-end-column="92" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+              <folding>
+                <element signature="e#375#376#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#536#537#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/CreateSequentialFile.java" />
+        <option value="$PROJECT_DIR$/src/Account.java" />
+        <option value="$PROJECT_DIR$/src/Clientes.txt" />
+        <option value="$PROJECT_DIR$/src/ReadFileSequential.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="27" />
+    <option name="width" value="1366" />
+    <option name="height" value="694" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="T199-[]" type="b2602c69:ProjectViewProjectNode" />
+              <item name="T199-[]" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="T199-[]" type="b2602c69:ProjectViewProjectNode" />
+              <item name="T199-[]" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554653611891" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../T198-[ES]-Serielizacion" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ReadFileSequential">
+    <configuration name="CreateSequentialFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreateSequentialFile" />
+      <module name="T199-[]" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadFileSequential" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadFileSequential" />
+      <module name="T199-[]" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ReadFileSequential" />
+      <item itemvalue="Application.CreateSequentialFile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReadFileSequential" />
+        <item itemvalue="Application.CreateSequentialFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a67622a-c9c4-4813-921a-bd2f1a62bb50" name="Default Changelist" comment="" />
+      <created>1554635256454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554635256454</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1366" height="694" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25757575" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32920355" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.3294509" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Clientes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clients.ser">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CreateSequentialFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="64" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReadFileSequential.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="20" column="92" selection-start-line="20" selection-start-column="92" selection-end-line="20" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

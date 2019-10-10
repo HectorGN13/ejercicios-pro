@@ -1,0 +1,4 @@
+EVALUAR LA EXPRESION (X>0) || (X<0)
+
+depende del valor de x dara true o false, ya que si asignamos un numero + o - a x nos dara true.
+pero si le asignamos 0, nos devolvera false.

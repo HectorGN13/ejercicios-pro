@@ -1,0 +1,2 @@
+Los siguientes valores, ¿a qué tipo de datos corresponden?   
+			 “Hola”: String,   101: int,   -4: int   false: boolean   “33”:String    -4.7: double

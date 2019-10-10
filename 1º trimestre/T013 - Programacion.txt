@@ -1,0 +1,10 @@
+\n -----> Nueva Linea.
+\t -----> Tabulador.
+\r -----> Retroceso de Carro.
+\f -----> Comienzo de Pagina.
+\b -----> Borrado a la Izquierda.
+
+------------------------------------------
+\\ -----> El carácter barra inversa ( \ ).
+\' -----> El carácter comilla simple ( ' ).
+\" -----> El carácter comilla doble ( " ).

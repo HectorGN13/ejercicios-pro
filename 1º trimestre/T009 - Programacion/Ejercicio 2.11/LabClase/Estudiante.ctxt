@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=queNombre\ queID
+comment0.target=Estudiante(String,\ String)
+comment0.text=\nCrear\ un\ nuevo\ estudiante\ con\ un\ nombre\ e\ ID\ dado\n\n
+comment1.target=String\ getNombre()
+comment1.text=\nDevuelve\ el\ nombre\ completo\ del\ estudiante\n\n
+comment2.params=queNombre
+comment2.target=void\ cambiarNombre(String)
+comment2.text=\nEstablece\ un\ nuevo\ nombre\ para\ el\ estudiante\n\n
+comment3.target=String\ getID()
+comment3.text=\nDevueleve\ el\ ID\ del\ estudiante\n\n
+comment4.params=puntosAdicionales
+comment4.target=void\ aniadirCreditos(int)
+comment4.text=\nA\u00F1adir\ algunos\ puntos\ de\ cr\u00E9dito\ a\ los\ ya\ obtenidos\n\n
+comment5.target=int\ getCreditos()
+comment5.text=\ndevuelve\ el\ n\u00BA\ de\ cr\u00E9ditos\ acumulados\ hasta\ el\ momento\n\n
+comment6.target=String\ getLogin()
+comment6.text=\nDevuelve\ el\ login\ (nombre\ login)\ del\ estudiante.\ El\ login\nes\ una\ combinaci\u00F3n\ de\ los\ cuatro\ primeros\ caracteres\ del\ nombre\ndel\ estudiante\ y\ los\ tres\ primeros\ caracteres\ de\ su\ ID\n\n
+comment7.target=void\ print()
+comment7.text=\nEscribir\ el\ nombre\ del\ estudiante\ en\ la\ consola\n\n
+numComments=8

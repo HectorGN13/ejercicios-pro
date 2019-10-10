@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=maxNumeroEstudiantes
+comment0.target=Laboratorio(int)
+comment0.text=\ncrear\ un\ objeto\ de\ la\ clase\ Laboratorio\ con\ el\ m\u00E1ximo\ n\u00BA\ de\ \nalumnos\ que\ pueden\ matricularse.\ El\ resto\ de\ valores\ se\ inician\ \ncon\ los\ valores\ por\ defecto\n\n
+comment1.params=nuevoEstudiante
+comment1.target=void\ matricularEstudiante(Estudiante)
+comment1.text=\nA\u00F1adir\ un\ estudiante\ a\ la\ lista\ de\ clase\n\n
+comment2.target=int\ numeroEstudiantes()
+comment2.text=\nDevolver\ el\ n\u00BA\ de\ estudianes\ actualmente\ matriculados\n\n
+comment3.params=queAula
+comment3.target=void\ setAula(String)
+comment3.text=\nestablecer\ el\ aula\n\n
+comment4.params=queHorario
+comment4.target=void\ setHorario(String)
+comment4.text=\nEstablecer\ el\ horario\ para\ esta\ clase.\ El\ par\u00E1metro\ndefine\ el\ d\u00EDa\ y\ la\ hora\ "Viernes,\ 10\ a.m."\n\n
+comment5.params=queProfesor
+comment5.target=void\ setProfesor(String)
+comment5.text=\nEstablecer\ el\ profesor\n\n
+comment6.target=void\ escribirLista()
+comment6.text=\nPrint\ out\ a\ class\ list\ with\ other\ LabClass\ details\ to\ the\ standard\nterminal.\n\n
+numComments=7

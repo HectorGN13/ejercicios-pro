@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fe3e087-b841-4008-9614-eb8ce94e88ef" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../T119-AnteriorConInvocaciones/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T120-TableroRobot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T122-Ejercicios5.20-5.22/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T127-StringTokenizer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T127-StringTokenizer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T127-StringTokenizer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T127-StringTokenizer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T127-StringTokenizer/T127-StringTokenizer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T127-StringTokenizer/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T129-ParametrosVaribles/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T129-ParametrosVaribles/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T129-ParametrosVaribles/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T129-ParametrosVaribles/T129-ParametrosVaribles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T133-Collator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T149-Militares/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1ºTRIMESTRE/Conecta4V0.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1ºTRIMESTRE/Conecta4V0.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1ºTRIMESTRE/Robot" beforeDir="false" afterPath="$PROJECT_DIR$/../../1ºTRIMESTRE/Robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1ºTRIMESTRE/RobotV0.3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1ºTRIMESTRE/RobotV0.3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1ºTRIMESTRE/RobotV0.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1ºTRIMESTRE/RobotV0.3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades6.1-6.4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades6.1-6.4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades6.1-6.4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades6.1-6.4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades6.1-6.4/Actividades6.1-6.4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades6.1-6.4/src/SeisDos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Actividades6.1-6.4/src/SeisUno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BloquesInicializacionStaticos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BloquesInicializacionStaticos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemploParametrosVariables/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemploParametrosVariables/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemploParametrosVariables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemploParametrosVariables/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjemploParametrosVariables/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjemploParametrosVariables/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListasSE/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ListasSE/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListasSE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ListasSE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListasSE/out/production/ListasSE/ListaSimple.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ListasSE/out/production/ListasSE/ListaSimple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListasSE/out/production/ListasSE/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ListasSE/out/production/ListasSE/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListasSE/src/ListaSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ListasSE/src/ListaSimple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListasSE/src/Nodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ListasSE/src/Nodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListasSE/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ListasSE/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MasterMindV0.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MasterMindV0.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MasterMindV0.1/MasterMindV0.1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MasterMindV0.1/MasterMindV0.1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MasterMindV0.1/src/CombinacionLinea.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MasterMindV0.1/src/CombinacionLinea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MasterMindV0.1/src/CombinacionPin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MasterMindV0.1/src/CombinacionPin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MasterMindV0.1/src/Ficha.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MasterMindV0.1/src/Ficha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MasterMindV0.1/src/Pin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MasterMindV0.1/src/Pin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MasterMindV0.1/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MasterMindV0.1/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MasterMindV0.1/src/TipoColorPin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MasterMindV0.1/src/TipoColorPin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NEnRayaV0.3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NEnRayaV0.3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NEnRayaV0.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NEnRayaV0.3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NEnRayaV0.3/out/production/NEnRayaV0.3/Jugador.class" beforeDir="false" afterPath="$PROJECT_DIR$/../NEnRayaV0.3/out/production/NEnRayaV0.3/Jugador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NEnRayaV0.3/out/production/NEnRayaV0.3/Partida.class" beforeDir="false" afterPath="$PROJECT_DIR$/../NEnRayaV0.3/out/production/NEnRayaV0.3/Partida.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NEnRayaV0.3/out/production/NEnRayaV0.3/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../NEnRayaV0.3/out/production/NEnRayaV0.3/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NEnRayaV0.3/src/Jugador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NEnRayaV0.3/src/Jugador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NEnRayaV0.3/src/Partida.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NEnRayaV0.3/src/Partida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NEnRayaV0.3/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NEnRayaV0.3/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T112-BuscarDicotomica/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../T112-BuscarDicotomica/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T113-5.14_Diccionario/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../T113-5.14_Diccionario/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T113-5.16_Curso/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../T113-5.16_Curso/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T113-5.17_CursoV0.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../T113-5.17_CursoV0.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T113-5.17_CursoV0.2/src/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/../T113-5.17_CursoV0.2/src/Estudiante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T113-5.18-CursoV0.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../T113-5.18-CursoV0.3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T113-5.19-Curso/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../T113-5.19-Curso/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T113-Ejercicios_5.13-5.19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../T113-Ejercicios_5.13-5.19/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T114-Primos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../T114-Primos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1228260295">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Principal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Nodo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+              <folding>
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#806#807#0" expanded="true" />
+                <element signature="e#850#851#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lista.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+              <folding>
+                <element signature="e#98#99#0" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Nodo.java" />
+        <option value="$PROJECT_DIR$/src/Principal.java" />
+        <option value="$PROJECT_DIR$/src/Lista.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552164218237" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal" />
+      <module name="T160-Actividad6.3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fe3e087-b841-4008-9614-eb8ce94e88ef" name="Default" comment="" />
+      <created>1520189998715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520189998715</updated>
+      <workItem from="1552198969356" duration="1759000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1759000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.51805335" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33224222" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3967213" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3262295" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Principal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Nodo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9.0.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

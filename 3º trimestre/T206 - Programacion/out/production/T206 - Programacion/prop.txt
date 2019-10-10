@@ -1,0 +1,18 @@
+17:        file.encoding: UTF-8 --> Codificacion de caracteres
+17:        file.separator: \ --> Carácter que separa los componentes de una ruta de archivo.
+17:        java.home: C:\Program Files\Java\jdk-10.0.2 --> Directorio de la instalación
+17:        java.library.path: C:\Program Files\Java\jdk-10.0.2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-10.0.2\bin;C:\Users\gnhec\AppData\Local\Microsoft\WindowsApps;C:\Users\gnhec\AppData\Local\atom\bin;. --> Lista de rutas para buscar al cargar bibliotecas
+17:        java.runtime.version: 10.0.2+13 --> Version de la JRE
+17:        java.vendor: Oracle Corporation --> Proveedor de entornos e tiempos de ejecucion java
+17:        java.vm.specification.vendor: Oracle Corporation --> Proveedor de la especificación de la máquina virtual Java
+17:        java.vm.specification.version: 10 --> Versión de la especificación de la máquina virtual Java
+17:        java.vm.version: 10.0.2+13 --> Version de la JRE
+17:        java.vm.version: 10.0.2+13 --> Versión de la especificación de la máquina virtual Java
+17:        line.separator: 
+ --> separador de linea
+17:        os.name: Windows 10 --> Nombre del sistema operativo
+17:        os.version: 10.0 --> Version del sistema operativo
+17:        user.country: ES --> Configuracion regional
+17:        user.dir: C:\Users\gnhec\IdeaProjects\T207 - Programacion --> Directorio de trabajo del usuario
+17:        user.home: C:\Users\gnhec --> Ruta donde se encuentra el jdk
+17:        user.language: es --> Idioma del usuario
